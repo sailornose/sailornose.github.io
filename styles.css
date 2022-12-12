@@ -1,0 +1,44 @@
+h1 {
+  font-size: 50px;
+text-align: center;
+  color: black;
+  font-family: sans-serif;
+}
+body {
+  background-color: grey}
+main {
+  background-color: white;
+}
+
+figcaption {
+  font-size: 20px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  max-width: 100%;
+  height: auto;
+}
+
+
+h3 {
+  color: black;
+  font-size: 30px;
+  font-family: sans-serif;
+  margin-bottom:0;
+  margin-left: 30px;
+}
+p, li {
+  margin-left:  35px;
+  margin-right: 35px;
+  font-size: 20;
+  font-family: sans-serif;
+
+}
+a{
+  font-size:20px;
+}
+
