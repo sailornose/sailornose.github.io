@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8"/>
+  <title>Plastic Dinosaurs</title>
+   <link href="styles.css">
+  </head>
+  <main id="main">
+  <body>
+    <h1 id="title">Plastic Dinosaurs</h1>
+    <section><div id="img-div">
+      <img id="image" src="https://f4.bcbits.com/img/0001928140_21.jpg">
+      <figcaption id="img-caption">Their logo as of 2018</figcaption></div>
+      </section>
+      <div id="tribute-info">
+        <h3>The Early Years</h3>
+        <p>The band was formed in 2012 by Aaron Clip and StudSis. Alternatively known as <em>The Original Brother-Sister Duo From Portland, Maine</em>, Aaron played the drums, while Sis provided various samples. They met their goal of releasing one EP, album, or single every month for about half of that year, with new music coming sporadically afterward throughout 2013.</p>
+        <h3>A Rift</h3>
+        <p>Sometime in 2014, tensions occurred within the band. Sis made an abrupt exit, and many new members joined in an attempt to replace her. These new members included:</p> <ul>
+          <li>April: Vocals, mixing, various instruments</li>
+          <li>Kenji: Ambient noise</li>
+          <li>Original exiled member MBA: 1 string guitar solos</li></ul>
+         <p> The album released in Sis' absence is simultaneously considered one of their best, and worst, works.</p>
+<h3>Today</h3>
+<p>No one knows where they are today.</p>
+</div>
+<p class="tribute-link"><a href="https://www.pdinos.rodeo" id="tribute-link" target="_blank">
+To listen to their music, click this link.
+</a></p>
+      
+</body>
+</main>
+</html>
